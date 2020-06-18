@@ -1,1 +1,4 @@
-# Write your code here
+while count > 10 do
+  count
+  count -=
+end
